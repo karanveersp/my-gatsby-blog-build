@@ -1,0 +1,1 @@
+{"componentChunkName":"component---src-templates-blog-post-js","path":"/new-post/","result":{"data":{"markdownRemark":{"id":"1ec7d79f-ce38-56f4-bb11-74975cec9647","excerpt":"a new post","html":"<p>a new post</p>","frontmatter":{"title":"New Post","date":"July 22, 2020","description":""}}},"pageContext":{"slug":"/new-post/","previous":null,"next":null}}}
