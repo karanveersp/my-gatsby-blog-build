@@ -1,0 +1,4 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: codewithkv.com
+Token: 52176f5a30135dac6c9c05baf63bc3c2ebc32f24108c602cbbfdbda1f3156f26
